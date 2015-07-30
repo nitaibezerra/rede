@@ -10,7 +10,7 @@
 
 ### Atuais
 Coloque sou nome, @arrobadotelegram (com um link para o seu site) e uma breve apresentação. #r
-- **Nitai Bezerra** - @nitais - Ainda não entendeu completamente as vantagens do bom e velho "release early", mas é um bom gafanhoto e está aprendendo rapidamente;
+- **Nitai Bezerra** - @nitais - Recifense! Atualmente é servidor público na função de Coordenador dos Sistemas de Informação no Ministério da Cultura. É Hacker e tem feito uso da sua função para Abrir o Governo pelo lado de dentro.
 - **Uirá Porã** [@uirapora](http://mapa.cultura.ce.gov.br/agente/4/) - Cearense, nascido em São Paulo e criado em Minas Gerais. É Hacker e atualmente consultor da Unidade de Políticas Digitais do Banco Mundial.
 
 
