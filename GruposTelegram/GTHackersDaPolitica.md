@@ -11,7 +11,7 @@
 Coloque sou nome, @arrobadotelegram (com um link para o seu site) e uma breve apresentação. #r
 
 - **Nitai Bezerra** - @nitais - Ainda não entendeu completamente as vantagens do bom e velho "release early", mas é um bom gafanhoto e está aprendendo rapidamente;
-- **Uirá Porã** - (@uirapora)[http://mapa.cultura.ce.gov.br/agente/4/] - Cearense, nascido em São Paulo e criado em Minas Gerais. É Hacker e atualmente consultor da Unidade de Políticas Digitais do Banco Mundial.
+- **Uirá Porã** - [@uirapora](http://mapa.cultura.ce.gov.br/agente/4/) - Cearense, nascido em São Paulo e criado em Minas Gerais. É Hacker e atualmente consultor da Unidade de Políticas Digitais do Banco Mundial.
 - 
 
 ### Lista de Espera
